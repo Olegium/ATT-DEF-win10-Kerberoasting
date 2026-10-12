@@ -33,3 +33,13 @@ Delegate attacks: Атаки через делегирование (Unconstraine
 Офлайн-взлом: Полученный билет можно взламывать офлайн без взаимодействия с контроллером домена
 Результат: Успешный брутфорс раскрывает пароль служебной учетной записи
 
+<img width="2281" height="1381" alt="image" src="https://github.com/user-attachments/assets/a092a39d-f7bd-41c1-8941-ca9f6f459d23" />
+
+перекидываем
+
+<img width="874" height="225" alt="image" src="https://github.com/user-attachments/assets/b8ba3d76-c0af-438f-bbf0-6a4d7d14a477" />
+
+находим
+
+<img width="1066" height="310" alt="image" src="https://github.com/user-attachments/assets/58f27bf5-3df7-45be-82d7-3c6545cbd530" />
+
